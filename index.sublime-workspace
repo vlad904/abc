@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"gr",
+				"grid-gap"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"g",
+				"grid-gap"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"grid-",
+				"grid-gap"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"grid",
+				"grid-template-columns"
+			],
+			[
+				"a",
+				"article"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"i",
+				"info"
+			],
+			[
+				"c",
+				"cyan"
+			],
+			[
+				"arc",
+				"article"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"U",
+				"url()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Student_2021/Documents/Гусев Влад/09.11.21/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/09.11.21/index.html",
+		"/C/Users/Student_2021/Documents/Покатков Иван/ЗДЕСЬ ТВОЙ ПРОЕКТ!!!/08.11.21/style.css",
+		"/C/Users/Student_2021/Documents/Покатков Иван/ЗДЕСЬ ТВОЙ ПРОЕКТ!!!/08.11.21/index.html",
+		"/C/Users/Student_2021/Pictures/первый сайт/index.html",
+		"/C/Users/Student_2021/Pictures/первый сайт/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/09.11.21/index2.html",
+		"/C/Users/Student_2021/Documents/Покатков Иван/08.11.21/style.css",
+		"/C/Users/Student_2021/Documents/Покатков Иван/08.11.21/index.html",
+		"/E/08.11.21/index.html",
+		"/E/08.11.21/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/hoi 4/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/hoi 4/index.html",
+		"/C/Users/Student_2021/Documents/Покатков Иван/18.10.21/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/эжпедкжп/style2.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/эжпедкжп/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/эжпедкжп/index2.html",
+		"/C/Users/Student_2021/Documents/Гусев Влад/эжпедкжп/index.html",
+		"/C/Users/Student_2021/Documents/Покатков Иван/18.10.21/index.html",
+		"/C/Users/Student_2021/Documents/Покатков Иван/29.09.21/style.css",
+		"/C/Users/Student_2021/Documents/Покатков Иван/29.09.21/index.html",
+		"/E/фыр мыр тур тыр/index.html",
+		"/E/фыр мыр тур тыр/style.css",
+		"/E/комп. прививка/style.css",
+		"/E/комп. прививка/index.html",
+		"/C/Users/Student_2021/Documents/Гусев Влад/01.10.21/style.css",
+		"/C/Users/Student_2021/Documents/Гусев Влад/01.10.21/index.html",
+		"/C/Users/Student_2021/Documents/Покатков Иван/29.09.21/Без названия.jfif - Ярлык.lnk",
+		"/C/Users/Student_2021/Documents/Покатков Иван/images.jfif",
+		"/C/Users/Student_2021/Desktop/29.09.21/style.css",
+		"/C/Users/Student_2021/Desktop/29.09.21/index.html",
+		"/C/Users/Student_2021/Desktop/270921/style.css",
+		"/C/Users/Student_2021/Desktop/270921/index.html"
+	],
+	"find":
+	{
+		"height": 109.6
+	},
+	"find_in_files":
+	{
+		"height": 124.800003052,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
